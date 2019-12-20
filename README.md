@@ -9,6 +9,9 @@ effects
 
 overdrive.m, shelving_first.m, wah.m are functions for Overdrive, Equalizer, and Wah-wah effects
 
+noise_cancelling.m is a script for comparing different filters for noise cancelling
+
 # Data
 
 Knock1.m4a is our raw audio signal
+
