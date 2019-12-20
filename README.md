@@ -15,3 +15,6 @@ noise_cancelling.m is a script for comparing different filters for noise cancell
 
 Knock1.m4a is our raw audio signal
 
+wah_od_eq.wav is a demo of signal with wah, overdrive, eq applied in sequence
+
+od_eq.wav is a demo of signal with overdrive, eq applied in sequence
